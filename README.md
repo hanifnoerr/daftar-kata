@@ -1,4 +1,4 @@
-Daftar Kata diekstrak dari https://dumps.wikimedia.org/idwiki/latest/
+Daftar Kata diekstrak dari xml.bz2 file (<LANG>wiki-latest-pages-articles.xml.bz2) wikimedia [https://dumps.wikimedia.org/idwiki/latest/]
 
 
 ```python
